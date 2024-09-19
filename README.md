@@ -1,3 +1,5 @@
 # TimorTech-Portfolio
 
-to run: npm run dev
+to run: 
+npm install
+npm run dev
